@@ -31,7 +31,7 @@ sh Autom/start_bounty.sh <domains.txt>
 Onde domains.txt é uma lista de endereços alvos.
 
 ## TRABALHOS A SEREM FEITOS
-- Generalizar caminhos, pois não há parâmetros para outras pastas.
+- Generalizar caminhos, pois não há parâmetros para diretórios alternativos.
 
 ## OBS:
 - Consulta/, scripts de pesquisas específicas nos indexs.
